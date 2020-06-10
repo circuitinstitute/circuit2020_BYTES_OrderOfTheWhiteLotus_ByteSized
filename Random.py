@@ -12,7 +12,7 @@ class RandomBot(Player):
     opponent_name takes the opponent's name as a string.
     """
     def handle_game_start(self, color: Color, board: chess.Board, opponent_name: str):
-
+        pass
 
     """
     This function responds to the players move. captured_my_piece is a boolean variable.
